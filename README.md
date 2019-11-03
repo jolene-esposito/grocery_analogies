@@ -1,3 +1,1 @@
-A ReadMe file
-# grocery_analogies
-# grocery_analogies
+# This README has been edited.
